@@ -14,7 +14,7 @@
 
 [submodule "benchmarks/tineuvox"]
 	path = benchmarks/tineuvox
-	url = https://github.com/liruilong940607/tineuvox.git
+	url = https://github.com/quietsleep/tineuvox.git
 	branch = nerfacc
 
 [submodule "benchmarks/kplanes"]
